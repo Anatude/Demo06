@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autolaskuri", "Autolaskuri\Autolaskuri.csproj", "{AE056F5B-87F8-4BA5-B575-A74CB21EA74C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EurotMarkoiksi", "EurotMarkoiksi\EurotMarkoiksi.csproj", "{8B12E700-41CD-4D35-8E43-A8669D387069}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,24 @@ Global
 		{AE056F5B-87F8-4BA5-B575-A74CB21EA74C}.Release|x86.ActiveCfg = Release|x86
 		{AE056F5B-87F8-4BA5-B575-A74CB21EA74C}.Release|x86.Build.0 = Release|x86
 		{AE056F5B-87F8-4BA5-B575-A74CB21EA74C}.Release|x86.Deploy.0 = Release|x86
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|ARM.Build.0 = Debug|ARM
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|x64.ActiveCfg = Debug|x64
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|x64.Build.0 = Debug|x64
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|x64.Deploy.0 = Debug|x64
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|x86.ActiveCfg = Debug|x86
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|x86.Build.0 = Debug|x86
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Debug|x86.Deploy.0 = Debug|x86
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|ARM.ActiveCfg = Release|ARM
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|ARM.Build.0 = Release|ARM
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|ARM.Deploy.0 = Release|ARM
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|x64.ActiveCfg = Release|x64
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|x64.Build.0 = Release|x64
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|x64.Deploy.0 = Release|x64
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|x86.ActiveCfg = Release|x86
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|x86.Build.0 = Release|x86
+		{8B12E700-41CD-4D35-8E43-A8669D387069}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
