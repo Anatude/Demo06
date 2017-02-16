@@ -26,5 +26,19 @@ namespace Autolaskuri
         {
             this.InitializeComponent();
         }
+
+        private void trucksButton_Click(object sender, RoutedEventArgs e)
+        {
+            int value = int.Parse(truckstextBlock.Text);
+            value++;
+            truckstextBlock.Text = value.ToString();
+        }
+
+        private void carsButton_Click(object sender, RoutedEventArgs e)
+        {
+            int value = int.Parse(carstextBlock.Text);
+            value++;
+            carstextBlock.Text = value.ToString();
+        }
     }
 }
